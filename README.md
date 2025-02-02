@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vabhu2904
 - 👀 I have interest in web development
 - 🌱 I’m currently learning cyber security
-- 📫 How to reach me throgh my email vnawani2004@gmial.com
+- 📫 How to reach me throgh my email vnawani2004@gmail.com
 
 
 <!---
